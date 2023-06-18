@@ -1,0 +1,70 @@
+
+.heading{
+    text-align: center;
+    font-size: 1.2rem;
+}
+.inputField{
+    height: 2rem;
+    width: 60%;
+    display: block;
+    margin: 0 auto;
+}
+.serviceBox{
+    display: flex;
+    margin-top: 1rem;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid gray;
+    margin-bottom: 0;
+    padding: 1rem 0 0 .3rem 0;
+}
+.selection{
+    height: 1.2rem;
+    border: rgb(0, 195, 255) 2px solid;
+    margin: .3rem;
+}
+.customerInput{
+    margin: .3rem;
+}
+.addBtn{
+    height: 1.4rem;
+    cursor: pointer;
+    background: rgb(7, 172, 223);
+    border: none;
+    border-radius: .3rem;
+    color: #fff;
+}
+
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 0.3rem 6rem;
+    margin: .7rem 0;
+    text-align: center;
+    width: 100%;
+}
+.heading{
+    text-align: center;
+    border: 1px solid gray;
+    padding: .5rem 0;
+    font-size: 1rem;
+    font-weight: bold;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+.lists{
+    border: 1px solid gray;
+    padding: 1rem 0 1rem 2rem;
+    margin-top: 0;
+}
+.calcBtn{
+    display: block;
+    background: rgb(45, 196, 45);
+    border: none;
+    border-radius: .3rem;
+    color: #fff;
+    margin: auto;
+    font-weight: 700;
+    height: 1.6rem;
+}
